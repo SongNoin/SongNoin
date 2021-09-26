@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SongNoin&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SongNoin👴&fontSize=70&animation=twinkling)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -12,7 +12,7 @@
 
 <br>
 
-<h3 align="center">🪄 Blog 🪄</h3>
+<h3 align="center">✍ Blog ✍</h3>
 
 <div align="center" style="text-align:center">
   
@@ -24,7 +24,7 @@
 <br>
 
 
-<h3 align="center"> 🧸 Me 🧸 </h3>
+<h3 align="center">🤴 Me 🤴</h3>
 <p align="center">
   <a href="https://velog.io/@as5427072"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
   <a href="https://www.instagram.com/song_ghhh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/song_ghhh/"/></a>&nbsp
