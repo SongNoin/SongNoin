@@ -22,8 +22,8 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=as5427072)](https://velog.io/@as5427072)
-  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=as5427072)](https://velog.io/@eungyeole) 
+
 </div>
   
 <br>
